@@ -99,8 +99,8 @@
     
     .logo{
     position: absolute;
-    width: 98px;
-    height: 60px;
+    width: 8px;
+    height: 20px;
     left: calc(50% - 98px/2 - 7px);
     top: 13px;
     font-family: 'Poppins', sans-serif;
